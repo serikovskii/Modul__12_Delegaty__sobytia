@@ -1,0 +1,7 @@
+C:\Users\МукушевА.CORP\source\repos\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+C:\Users\МукушевА.CORP\source\repos\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+C:\Users\МукушевА.CORP\source\repos\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\МукушевА.CORP\source\repos\BankSystem\BankSystem\obj\Debug\BankSystem.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+C:\Users\МукушевА.CORP\source\repos\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
